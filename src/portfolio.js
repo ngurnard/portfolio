@@ -42,7 +42,7 @@ const skillsSection = {
   subTitle: "LIFELONG LEARNER WHO WANTS TO EXPLORE THE AUTONOMOUS VEHICLE SPACE, AUTOMATION, AND MULTI-AGENT SYSTEMS.",
   skills: [
     emoji(
-      "⚡ Integration of both mechanical design and programming in robic systems"
+      "⚡ Integration of both mechanical design and programming in robotic systems"
     ),
     emoji("⚡ Design optimal control algorithms for robotic control, planning, and mapping"),
     emoji(
